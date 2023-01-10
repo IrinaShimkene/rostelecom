@@ -3,7 +3,7 @@
 
 Тесты были написаны, основываясь на требованиях, предоставленных заказчиком: https://docs.google.com/document/d/1Sgww3tOzIzVOqYHdMNu0oWd8PQe6nv-F/edit?usp=sharing&ouid=104445533477470531867&rtpof=true&sd=true
 
-!!! ШАГИ РАБОТЫ НАД ПРОЕКТОМ, ВОПРОСЫ ЗАКАЗЧИКУ ПО ТРЕБОВАНИЯМ, ИСПОЛЬЗОВАННЫЕ ТЕХНИКИ ТЕСТ-ДИЗАЙНА И НАПИСАНИЯ КОДА ТЕСТОВ ПРЕДСТАВЛЕНЫ В ФАЙЛЕ: https://docs.google.com/document/d/16Mq0_O1tIoWIveOX-iZjrgpS5ezJQN9bG8wXvkyGQuo/edit?usp=sharing
+**!!! ШАГИ РАБОТЫ НАД ПРОЕКТОМ, ВОПРОСЫ ЗАКАЗЧИКУ ПО ТРЕБОВАНИЯМ, ИСПОЛЬЗОВАННЫЕ ТЕХНИКИ ТЕСТ-ДИЗАЙНА И НАПИСАНИЯ КОДА ТЕСТОВ ПРЕДСТАВЛЕНЫ В ФАЙЛЕ: https://docs.google.com/document/d/16Mq0_O1tIoWIveOX-iZjrgpS5ezJQN9bG8wXvkyGQuo/edit?usp=sharing**
 
 В папке tests представлены 2 файла: 
 - all_successful_tests.py содержит 16 успешных автотестов, как позитивных, так и негативных. То есть тестов, которые подтверждают ожидаемое поведение платформы;
